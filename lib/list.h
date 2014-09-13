@@ -1,8 +1,6 @@
 /*
  * list.h
  *
- *  Created on: Aug 15, 2013
- *      Author: qinghua
  */
 
 #ifndef LIST_H_

@@ -1,9 +1,3 @@
-/*
- * fs.h
- *
- *  Created on: Aug 6, 2013
- *      Author: qinghua
- */
 
 #ifndef FS_H_
 #define FS_H_

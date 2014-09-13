@@ -1,8 +1,6 @@
 /*
  * kalloc.cpp
  *
- *  Created on: Aug 10, 2013
- *      Author: qinghua
  */
 
 // Physical memory allocator, intended to allocate

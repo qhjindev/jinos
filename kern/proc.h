@@ -1,8 +1,6 @@
 /*
  * proc.h
  *
- *  Created on: Aug 10, 2013
- *      Author: qinghua
  */
 
 #ifndef PROC_H_

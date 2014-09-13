@@ -1,9 +1,3 @@
-/*
- * kbd.h
- *
- *  Created on: Aug 10, 2013
- *      Author: qinghua
- */
 
 #ifndef KBD_H_
 #define KBD_H_

@@ -1,8 +1,6 @@
 /*
  * mman.h
  *
- *  Created on: Oct 17, 2013
- *      Author: qinghua
  */
 
 #ifndef MMAN_H_

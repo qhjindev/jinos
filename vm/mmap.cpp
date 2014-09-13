@@ -1,8 +1,6 @@
 /*
  * mmap.cpp
  *
- *  Created on: Oct 17, 2013
- *      Author: qinghua
  */
 
 /* mmap args

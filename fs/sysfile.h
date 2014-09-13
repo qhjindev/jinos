@@ -1,9 +1,3 @@
-/*
- * sysfile.h
- *
- *  Created on: Aug 10, 2013
- *      Author: qinghua
- */
 
 #ifndef SYSFILE_H_
 #define SYSFILE_H_

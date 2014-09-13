@@ -1,8 +1,6 @@
 /*
  * errno.h
  *
- *  Created on: Oct 9, 2013
- *      Author: qinghua
  */
 
 #ifndef ERRNO_H_

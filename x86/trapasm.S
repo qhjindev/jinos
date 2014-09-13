@@ -1,8 +1,6 @@
 /*
  * trapasm.S
  *
- *  Created on: Aug 10, 2013
- *      Author: qinghua
  */
 
 #include "mmu.h"

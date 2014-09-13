@@ -1,8 +1,6 @@
 /*
  * vm.h
  *
- *  Created on: Aug 10, 2013
- *      Author: qinghua
  */
 
 #ifndef HAT_H_

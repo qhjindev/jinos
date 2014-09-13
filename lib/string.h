@@ -1,8 +1,6 @@
 /*
  * string.h
  *
- *  Created on: Aug 6, 2013
- *      Author: qinghua
  */
 
 #ifndef STRING_H_

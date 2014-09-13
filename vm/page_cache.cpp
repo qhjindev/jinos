@@ -1,8 +1,6 @@
 /*
  * page_cache.cpp
  *
- *  Created on: Oct 12, 2013
- *      Author: qinghua
  */
 
 #include "types.h"

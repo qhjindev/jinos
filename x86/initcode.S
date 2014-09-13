@@ -1,8 +1,6 @@
 /*
  * initcode.S
  *
- *  Created on: Aug 10, 2013
- *      Author: qinghua
  */
 # Initial process execs /init.
 

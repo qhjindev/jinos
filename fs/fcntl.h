@@ -1,9 +1,3 @@
-/*
- * fcntl.h
- *
- *  Created on: Aug 10, 2013
- *      Author: qinghua
- */
 
 #ifndef FCNTL_H_
 #define FCNTL_H_

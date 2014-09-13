@@ -1,9 +1,3 @@
-/*
- * stat.h
- *
- *  Created on: Aug 6, 2013
- *      Author: qinghua
- */
 
 #ifndef STAT_H_
 #define STAT_H_

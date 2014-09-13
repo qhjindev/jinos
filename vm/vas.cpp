@@ -1,8 +1,6 @@
 /*
  * vas.cpp
  *
- *  Created on: Oct 9, 2013
- *      Author: qinghua
  */
 
 #include "types.h"

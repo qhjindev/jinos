@@ -1,8 +1,6 @@
 /*
  * entrypgdir.c
  *
- *  Created on: Aug 10, 2013
- *      Author: qinghua
  */
 
 // Boot page table used in entry.S and entryother.S.

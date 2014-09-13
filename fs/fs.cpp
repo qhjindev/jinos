@@ -1,9 +1,3 @@
-/*
- * fs.cpp
- *
- *  Created on: Aug 6, 2013
- *      Author: qinghua
- */
 
 #include "fs.h"
 #include "types.h"

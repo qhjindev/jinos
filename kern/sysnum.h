@@ -1,8 +1,6 @@
 /*
  * syscalldef.h
  *
- *  Created on: Aug 10, 2013
- *      Author: qinghua
  */
 
 #ifndef SYSCALLDEF_H_

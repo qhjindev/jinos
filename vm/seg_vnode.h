@@ -1,8 +1,6 @@
 /*
  * seg_vn.h
  *
- *  Created on: Oct 9, 2013
- *      Author: qinghua
  */
 
 #ifndef SEG_VN_H_

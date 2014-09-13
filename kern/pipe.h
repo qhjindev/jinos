@@ -1,8 +1,6 @@
 /*
  * pipe.h
  *
- *  Created on: Aug 11, 2013
- *      Author: qinghua
  */
 
 #ifndef PIPE_H_

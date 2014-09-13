@@ -1,8 +1,6 @@
 /*
  * vas.h
  *
- *  Created on: Oct 7, 2013
- *      Author: qinghua
  */
 
 #ifndef VAS_H_

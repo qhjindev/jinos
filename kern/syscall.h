@@ -1,8 +1,6 @@
 /*
  * syscall.h
  *
- *  Created on: Aug 10, 2013
- *      Author: qinghua
  */
 
 #ifndef SYSCALL_H_

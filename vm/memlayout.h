@@ -1,8 +1,6 @@
 /*
  * memlayout.h
  *
- *  Created on: Aug 6, 2013
- *      Author: qinghua
  */
 
 #ifndef MEMLAYOUT_H_
