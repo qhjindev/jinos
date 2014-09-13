@@ -1,0 +1,13 @@
+
+jinos-0.1 2013/8
+  baseline implementaion
+
+jinos-0.2 2013/9
+  oo implementaion
+ 
+jinos-0.3 2013/10
+  virtual memory impl:
+  demand paging
+  copy on write
+  memory mapping
+  file mapping
